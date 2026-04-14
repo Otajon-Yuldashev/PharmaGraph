@@ -1,0 +1,6 @@
+google-cloud-spanner
+google-cloud-storage
+vertexai
+google-cloud-aiplatform
+pandas
+
