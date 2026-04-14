@@ -1,0 +1,7 @@
+flask
+flask-cors
+google-cloud-spanner
+vertexai
+google-cloud-aiplatform
+gunicorn
+
