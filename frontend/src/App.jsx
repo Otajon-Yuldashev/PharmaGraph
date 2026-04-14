@@ -1,6 +1,6 @@
 import { useState, useRef, useEffect, useCallback } from "react";
 
-const API = "https://pharmagraph-backend-916510424773.us-central1.run.app";
+const API = "https://your-backend-url";
 
 const SUGGESTIONS = [
   "How do ibuprofen and warfarin together effect?",
