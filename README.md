@@ -6,6 +6,12 @@ Built for educational purposes as a data engineering portfolio project.
 
 ---
 
+## Preview
+
+![PharmaGraph UI](ui-look/Screenshot%202026-04-12%20235040.png)
+
+---
+
 ## What it does
 
 A user types: *"what happens if I mix metformin and alcohol?"*
